@@ -40,7 +40,7 @@ public class ProdutosTest {
                 .acessarFormNovoProduto()
                 .infoNomeProduto("Macbook Pro")
                 .infoValorProduto("000")
-                .infoCoresProduto("Preto, Branco")
+                .infoCoresProduto("Preto, Cinza")
                 .submeterFormComErro()
                 .capturarMsgApresentada();
 
