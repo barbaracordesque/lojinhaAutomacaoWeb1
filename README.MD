@@ -1,5 +1,5 @@
 ## Automação Web
-Esse repositório contém a automação de um software web denominado Lojinha.
+Esse repositório contém a automação de um software web denominado Lojinha e foi desenvolvido durante o curso [Programa de Teste e Qualidade de Software](https://programa.juliodelima.com.br/) ministrado pelo professor Júlio de Lima.
 
 ## Tecnologias Utilizadas
  - [Java](https://www.oracle.com/java/technologies/downloads/)
